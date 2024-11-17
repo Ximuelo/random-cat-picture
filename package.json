@@ -1,7 +1,7 @@
 {
   "name": "random-cat-picture",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple Astro app that displays a random cat picture",
   "author": "Ximuelo",
   "scripts": {

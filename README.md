@@ -37,12 +37,16 @@
    ```sh
    git clone https://github.com/Ximuelo/random-cat-picture.git
    ```
+2. Move inside the repo
+   ```sh
+   cd random-cat-picture
+   ```
 3. Install NPM packages
    ```sh
    npm install
    ```
 4. Start the project as a development server
-   ```js
+   ```sh
    npm run dev
    ```
 Open http://localhost:3000 with your browser to see the result.

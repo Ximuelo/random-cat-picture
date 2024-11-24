@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  <img src="public/cover.webp" width="100%" />
- <p align="center">Cover made with <a>shots.so</a></p>
+ <p align="center">Cover made with <a href="https://shots.so">shots.so</a></p>
 
 ### Built With
 

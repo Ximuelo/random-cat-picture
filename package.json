@@ -5,7 +5,7 @@
   "description": "A simple Astro app that displays a random cat picture",
   "author": "Ximuelo",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --port 3000",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",

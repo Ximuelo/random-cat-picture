@@ -1,89 +1,61 @@
-# Random Cat Image App
+<a name="readme-top"></a>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Ximuelo/random-cat-picture">
+    <img src="public/favicon.svg" alt="Logo" width="80" height="100">
+    <!-- Get img from svg in public/favicon.svg -->
+    
+  </a>
 
-This is a simple web application built with **Astro** that displays a random cat image. The app is designed with Tailwind CSS for styling and responsive design.
+<h3 align="center">Random Cat Picture</h3>
 
-## 🚀 Project Structure
+  <p align="center">
+    A web that displays a random cat picture
+    <br />
+    <a href="https://epic-free-games-page.vercel.app/">View Page</a>
+  </p>
+</div>
 
-```text
-/
-├── public/
-│   └── favicon.svg               # The favicon for the application
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro          # The main layout for the app
-│   └── pages/
-│       └── index.astro           # The homepage of the app
-└── package.json                  # Project metadata and dependencies
-```
+<!-- ABOUT THE PROJECT -->
+## About The Project
+ <img src="public/cover.webp" width="100%" />
+ <p align="center">Cover made with <a>shots.so</a></p>
 
-- **`public/`**: Contains static assets like the favicon.
-- **`src/`**: Contains the source code.
-  - **`layouts/`**: Contains the layout files.
-  - **`pages/`**: Contains the pages of the application, in this case, just the `index.astro` file for the homepage.
-- **`package.json`**: Contains the project's dependencies and configuration.
+### Built With
 
-## 🛠️ Technologies Used
+* [![Astro][Astro.build]][Astro-url]
+* [![TypeScript][TypeScript]][TypeScript-url]
+* [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
-- **Astro**: A modern framework for building fast websites. We use Astro for building the static pages and managing the layout of the app.
-- **Tailwind CSS**: A utility-first CSS framework used for styling the application with a responsive design.
-- **JavaScript**: For dynamically updating the cat image when the button is clicked.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🖼️ Features
 
-- Displays a random cat image fetched from `https://cataas.com/cat`.
-- The layout is mobile-first and responsive, ensuring the image looks great on all screen sizes.
 
-## 📦 Getting Started
-
-### Prerequisites
-
-- **Node.js** (version 16 or higher)
-- **npm** or **yarn** (for managing dependencies)
+<!-- GETTING STARTED -->
+## Getting Started
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/random-cat-image-app.git
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Ximuelo/random-cat-picture.git
    ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd random-cat-image-app
-   ```
-
-3. Install the dependencies:
-
-   ```bash
+3. Install NPM packages
+   ```sh
    npm install
    ```
+4. Start the project as a development server
+   ```js
+   npm run dev
+   ```
+Open http://localhost:3000 with your browser to see the result.
 
-### Running the Development Server
 
-To start the development server, run:
-
-```bash
-npm run dev
-```
-
-Your application will be available at [http://localhost:3000](http://localhost:3000).
-
-### Building for Production
-
-To build the app for production, run:
-
-```bash
-npm run build
-```
-
-This will create a static version of the site in the `dist/` directory, ready to be deployed.
-
-## 🧑‍💻 Contributing
-
-Feel free to open issues and submit pull requests if you'd like to contribute to the project. If you find any bugs or have suggestions for improvements, don't hesitate to reach out!
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
+<!-- MARKDOWN LINKS & IMAGES -->
+[Astro.build]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge
+[Astro-url]: https://astro.build/
+[TypeScript]: https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[TailwindCSS]: https://img.shields.io/badge/tailwind_css-blueviolet?style=for-the-badge&logo=tailwindcss&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/

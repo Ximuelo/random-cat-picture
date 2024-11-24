@@ -28,10 +28,6 @@
 * [![TypeScript][TypeScript]][TypeScript-url]
 * [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -51,6 +47,7 @@
    ```
 Open http://localhost:3000 with your browser to see the result.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Astro.build]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge
